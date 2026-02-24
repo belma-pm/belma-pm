@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey 👋 I'm Belma, building insights with data
 
-<!--
-**belma-pm/belma-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data enthusiast | Excel & Python | Dashboards & Analytics  
 
-Here are some ideas to get you started:
+I'm a budding Data Analyst from Türkiye, passionate about turning messy data into meaningful insights. I love cleaning data, creating visualizations, and building dashboards that help make smarter decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on personal and learning projects to improve my skills in:  
+- **Data Cleaning & Analysis:** Excel, Pandas, NumPy  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly  
+- **SQL & Databases:** SQL Server, MySQL  
+- **Dashboarding & Reporting:** Power BI, Streamlit  
+
+I'm also exploring AI tools and machine learning whenever possible, creating mini-projects and prototypes.  
+
+💻 **Projects & Tools:**  
+- Dashboard Projects (KPI dashboards, interactive analytics)  
+- Data Cleaning & Transformation Projects  
+- Mini ML experiments & AI explorations  
+
+
+🤗 Let's Connect!  
+- LinkedIn: https://www.linkedin.com/in/belmatas/
+- E-mail: tasbelmaa@gmail.com
+
