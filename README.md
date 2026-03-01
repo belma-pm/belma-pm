@@ -1,4 +1,4 @@
-# Hey 👋 I'm Belma, building insights with data
+Hey I'm Belma, building insights with data
 
 📊 Data enthusiast | Excel & Python | Dashboards & Analytics  
 
